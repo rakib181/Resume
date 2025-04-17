@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello, this is Tonmoy speaking ....
-=======
-I am from Rajshahi.
->>>>>>> feature
-=======
 I am from Rajshahi.
 Hello, this is Tonmoy speaking ....
 
->>>>>>> 13fdff49e30379ec5e2adf571467c85884e2ef40
